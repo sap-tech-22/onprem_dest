@@ -1,0 +1,23 @@
+mta_archives/
+
+# auto generated wildcard
+dbtest/.env
+dbtest/node_modules/
+node_modules/
+package-lock.json
+default-*.json
+.env
+.yo-rc.json
+.vscode/
+coverage/
+gen/
+*-content.zip/
+manifest-bundle.zip/
+connection.properties
+*.db
+*.mtar
+*.log
+_out
+.che/
+.gen/
+.DS_Store

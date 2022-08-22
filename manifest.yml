@@ -1,0 +1,7 @@
+---
+applications:
+ - name: onprem_dest
+   host: onprem_dest
+   buildpack: nodejs_buildpack
+   memory: 128M
+   command: node index
